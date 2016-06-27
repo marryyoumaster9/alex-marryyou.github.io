@@ -42,26 +42,6 @@ RESPONSIVE FIXES
         min-height: 780px;
     }
 
-    .sticky-navigation .navbar-header {
-        width: 100%;
-        position: relative;
-        text-align: center;
-        margin-top: 10px;
-    }
-    .sticky-navigation .navbar-header a {
-        float: none !important;
-    }
-
-    .sticky-navigation .navbar-header img {
-        max-height: 40px;
-    }
-
-    .sticky-navigation .main-navigation {
-        text-align: center;
-        width: 100%;
-        padding-top: 0;
-    }
-
     header .intro-section {
         padding-top: 0;
     }
@@ -100,17 +80,6 @@ RESPONSIVE FIXES
 
     header .only-logo .navbar {
         padding: 20px;
-    }
-
-    .navbar-inverse .navbar-nav {
-        padding-left: 10px;
-        line-height: normal;
-        text-align: center;
-    }
-
-    .navbar-inverse .navbar-nav>li {
-        display: inline-block;
-        margin-bottom: 0;
     }
 
     header .intro-section {
@@ -178,14 +147,8 @@ RESPONSIVE FIXES
         margin-top: 15px;
     }
 
-    .testimonials,
     .download {
         background-attachment: inherit !important;
-    }
-
-    .download .subscription-form .input-box {
-        width: 95%;
-        height: 50px;
     }
 
     .standard-button,
