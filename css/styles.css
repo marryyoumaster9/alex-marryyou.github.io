@@ -354,7 +354,7 @@ header .phone-image {
 }
 
 header .phone-image img {
-    width: 100%;
+    width: 300px;
 }
 
 header .intro-section .intro {
