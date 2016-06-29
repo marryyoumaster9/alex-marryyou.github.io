@@ -54,7 +54,7 @@ jQuery(window).load(function() {
 =================================== */
 jQuery(function( $ ){
 			$('#view-more-button').localScroll({
-				duration:1000
+				duration:1200
 			});
 		});
 
