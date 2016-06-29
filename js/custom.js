@@ -18,7 +18,7 @@ jQuery(window).load(function() {
 //     scrollThreshold: 0.2, // Adjust if Navigation highlights too early or too late
 //     scrollOffset: 60 //Height of Navigation Bar
 //   });
-// 
+//
 // });
 //
 // /* NAVIGATION VISIBLE ON SCROLL */
@@ -53,7 +53,7 @@ jQuery(window).load(function() {
 ===  DOWNLOAD BUTTON CLICK SCROLL ==
 =================================== */
 jQuery(function( $ ){
-			$('#download-button').localScroll({
+			$('#view-more-button').localScroll({
 				duration:1000
 			});
 		});
